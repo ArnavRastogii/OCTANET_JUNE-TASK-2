@@ -1,4 +1,4 @@
-# OCTANET_JUNE-TASK-2
+# To-Do-List
 
 I'm thrilled to present a user-friendly and functional To-Do List web application that I've developed using HTML, CSS, and JavaScript. This project is a testament to my dedication to creating practical and efficient web solutions that can help streamline daily tasks and enhance productivity.
 
